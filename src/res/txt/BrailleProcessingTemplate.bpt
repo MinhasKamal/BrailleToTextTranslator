@@ -1,0 +1,44 @@
+<user-setting>
+<user-input type="pre-processing-configuration">
+<command>
+<process>enhancement</process>
+<argument>bi-histogram-equalization</argument>
+</command>
+<command>
+<process>noise-reduction</process>
+<argument>median-filter</argument>
+</command>
+<command>
+<process>noise-reduction</process>
+<argument>gaussian-filter</argument>
+</command>
+<command>
+<process>connectivity-improvement</process>
+<argument>erosion</argument>
+</command>
+<command>
+<process>connectivity-improvement</process>
+<argument>dilation</argument>
+</command>
+</user-input>
+<user-input type="translation-configuration">
+<command>
+<process>dot-segmentation</process>
+<argument>3,8</argument>
+</command>
+<command>
+<process>pattern-recognition</process>
+<argument>rotation-invarient-pattern-recognition</argument>
+</command>
+<command>
+<process>code-to-character-map</process>
+<argument>src\res\txt\BengaliBrailleCodeToCharacterMap.ccm</argument>
+</command>
+</user-input>
+<user-input type="translation-configuration">
+<command>
+<process>spell-check</process>
+<argument>src\res\txt\BengaliWordList.dwl</argument>
+</command>
+</user-input>
+</user-setting>

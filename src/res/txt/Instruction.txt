@@ -1,0 +1,70 @@
+# User Manual for Bengali Braille to Text Translator
+
+After running the software, a window will appear, here in the middle there are 3 buttons- Run Braille to Text Translation, Create Braille Processing Template, and Read Instruction.
+ 
+The menu bar contains 2 menus- Operations and Help. Operations menu has 5 menu options- Braille to Text Translation, Pre Processing, Translation, Post Processing, and Template Generation. The button Run Braille to Text Translation and the menu item Braille to Text Translation perform the same activity. Create Braille Processing Template button and Template Generation menu item also are identical in functionality.
+
+Help menu contains Instruction and About menu item. The Read Instruction button of opening view and menu item Instruction does the same thing. So, covering functionalities of the menu items will also cover functionalities of the main view buttons. 
+
+
+## A. Pre-Processing
+
+1. From the Operations menu click on the menu item Pre-Processing. In Pre-Processing, first the Pre-Processing Initialization window is shown.
+ 
+2. Select the Input Braille Image Directory by selecting an image of the directory. Click the Next button and Pre-Processing Customization window will come.
+ 
+
+3. Click on the Add button to add image pre-processing methods. Select process and algorithm for each method. Then click Next button and Pre-Processing Running window will come.
+
+4. Now select your Output Braille Image Directory and click on the Run button. The process will start running. Now wait for some time and a message box will pop up to confirm the outcome of your process. If the process is successful then you will get a directory of processed images.
+
+
+## B. Translation
+
+1. From the Operations menu click on the menu item Translation. Now the Translation Initialization window is shown.
+
+2. Select the Input Braille Image Directory by selecting an image of the directory. Click the Next button and Translation Customization window will come.
+
+3. Enter value into Min Dot Size and Max Dot Size, which the means minimum and maximum diameter of a dot. Select a Pattern Recognition Algorithm and Code to Character Map File. The map file contains relationship between pattern and character. You can either use the Default Bengali Map File or your own Custom Map File. Click button- Next to proceed to the Translation Running stage.
+
+4. Now select your Output Text Directory and click on the Run button. The process will start running. Now wait for some time and a message box will pop up to confirm the outcome of your process. If the process is successful then you will get a directory of text files.
+
+
+## C. Post-Processing
+
+1. From the Operations menu click on the menu item Post-Processing. In Post-Processing, first the Post-Processing Initialization window is shown.
+
+2. Select the Input Text File Directory by selecting a text file of the directory. Click the Next button and Post-Processing Customization window will come.
+
+3. If you want to run Spell Checking, then select it. You can use default Bengali Word List provided with the software, or use your own Custom Word List. Now click on the Next button and Post-Processing Running window will come (Figure 6.2.3.3).
+
+4. Now, select your Output Text Directory and click on the Run button. The process will start running. Now wait for some time and a message box will pop up to confirm the outcome of your process. If the process is successful then you will get your final output in the directory of text files.
+
+
+## D. Template Generation
+
+1. From the Operations menu click on the menu item Template Generation. In this process, first the Pre-Processing Customization window is shown.
+ 
+2. Click on the Add button to add image pre-processing methods. Select process and algorithm for each method. Then click Next button and Translation Customization window will come.
+
+3. Enter value into Min Dot Size and Max Dot Size, which the means minimum and maximum diameter of a dot. Select a Pattern Recognition Algorithm and Code to Character Map File. The map file contains relationship between pattern and character. You can either use the Default Bengali Map File or your own Custom Map File. Click button- Next to proceed to the Post-Processing Customization stage.
+
+4. If you want to run Spell Checking, then select it. You can use default Bengali Word List provided with the software, or use your own Custom Word List. Now click on the Next button and Template Generation Running window will come.
+
+5. Now select your Output Braille Processing Template File and click on the Run button. The process will start running. Now wait for some time and a message box will pop up to confirm the outcome of your process. If the process is successful then you will get a BPT file.
+
+
+## E. Braille to Text Translation
+
+1. From the Operations menu go to the menu option Braille to Text Translation or click Run Braille to Text Translation from the main view. Then Braille to Text Translation Initialization Window will come (Figure 6.2.5.1).
+
+2. Select the Input Braille Image Directory by selecting an image of the directory. 
+
+If you want to use a predefined template for running the system, then check the Use Template option. Now you can use Default Template provided with the software, or your own Custom Template. 
+
+Or, if you want to customize the whole process then check the Customize option. Click button- Next and Pre-Processing Customization window will come (Figure 6.2.1.2). The functionality is exactly like we did in Pre-Processing phase. Then comes the Translation Customization window (Figure 6.2.2.2). Functionality is exactly like Translation phase. Then Post-Processing Customization window comes. Again functionality is same as Post-Processing phase.
+
+Now click on the Next button and Braille to Text Translation Running window will come (Figure 6.2.5.2).
+
+3. Now, select your Output Text Directory and click on the Run button. The process will start running. Now wait for some time and a message box will pop up to confirm the outcome of your process. If the process is successful then you will get your final output in the directory of text files.
+ 
