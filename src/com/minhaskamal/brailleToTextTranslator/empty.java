@@ -1,6 +1,5 @@
 /***********************************************************
 * Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
-* License: MIT License                                     *
 ***********************************************************/
 
 package com.minhaskamal.brailleToTextTranslator;
