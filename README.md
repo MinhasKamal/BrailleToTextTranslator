@@ -1,7 +1,8 @@
 <h1> <img src="https://cloud.githubusercontent.com/assets/5456665/21795219/b66ae1c2-d72a-11e6-9c12-fb53adfa54c4.png" width="20" height=auto /> BrailleToTextTranslator </h1>
+
 #### Translate Braille Writing to Plain Text
 
-Braille is a specialized writing system for visually impaired people, where raised dots on embossed paper are used as tactile alphabet. The tool Bengali Braille to Text Translator will take in scanned image of Bengali Braille writing, apply pattern recognition, and translate it to text. The user does not need much theoretical or technical skill to run this software.
+Braille is a specialized writing system for visually impaired people, where raised dots on embossed paper are used as tactile alphabet. The tool, Bengali Braille to Text Translator, will take in scanned image of Bengali Braille writing, apply pattern recognition, and translate it to text. Users do not need much theoretical or technical skill to run this software.
 
 ### Usage Scenario
 Bengali Braille Character Recognizer is a tool that will take scanned image of Braille writing, run different types of image-preprocessing techniques, translate Braille to text through pattern recognition, and apply text correction procedures for final output.
@@ -16,11 +17,15 @@ In the post processing stage, spell checking will be performed for minimizing er
 
 All these steps, settings, algorithms and their parameters can be automated using a configuration file- Braille Processing Template (BPT). Some templates (BPT) will be available to the user in default with the system. Users will also be able to define customized template.
 
-### Documentation
-- [Project Proposal](http://www.slideshare.net/100005232690054/project-proposal-bengali-braille-to-text-translation)
-- [Software Requirement Specification](https://drive.google.com/open?id=0B54vrHge-bxdN3hlZFFVVllhYzA)
-- [Report](https://drive.google.com/open?id=0B54vrHge-bxdcU9TWFNYRXZxTTQ)
-- [User Manual](https://drive.google.com/open?id=0B54vrHge-bxdT2pjdGdQNG5yWWc)
-
 ### Demonstration
 - [Video Demonstration](https://drive.google.com/open?id=0B54vrHge-bxdM3h2MmtRN3lYNHM)
+
+### Documentation
+- Abstract- [document](https://www.slideshare.net/100005232690054/abstract-bengali-braille-to-text-translator)
+- Project Proposal- [document](https://www.slideshare.net/100005232690054/project-proposal-bengali-braille-to-text-translation), [slide](https://www.slideshare.net/100005232690054/software-project-proposal-bengali-braille-to-text-translation)
+- Software Requirement Specification- [document](https://www.slideshare.net/100005232690054/software-requirements-specification-on-bengali-braille-to-text-translator), [slide](https://drive.google.com/open?id=0B54vrHge-bxdbEVMWDhEa3NLTHM)
+- Project Report- [document](https://www.slideshare.net/100005232690054/project-report-bengali-braille-to-text-translator), [slide](https://drive.google.com/open?id=0B54vrHge-bxdU2ZEYW9IODcxbG8)
+- User Manual- [document](https://drive.google.com/open?id=0B54vrHge-bxdT2pjdGdQNG5yWWc)
+
+### Project Source
+- [Source Code](https://bitbucket.org/MinhasKamal/brailletotexttranslator)
