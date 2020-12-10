@@ -30,7 +30,7 @@ All these steps, settings, algorithms and their parameters can be automated usin
 ### Publication
 
 <table>
-<tr><td>Minhas Kamal, Amin Ahsan Ali, Muhammad Asif Hossain Khan, and Mohammad Shoyaib. "Braille to Text Translation for Bengali Language: A Geometric Approach." In Jahangir Nagar University Journal of Information Technology (JJIT), pp. 93-111, 2018.</td></tr>
+<tr><td>Minhas Kamal, Amin Ahsan Ali, Muhammad Asif Hossain Khan, and Mohammad Shoyaib. "Braille to Text Translation for Bengali Language: A Geometric Approach." In Jahangir Nagar University Journal of Information Technology (JJIT), pp. 93-111, 2018. <a href="https://arxiv.org/abs/2012.01494">[PDF]</a> </td></tr>
 </table>
 
 ### Project Source
