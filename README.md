@@ -18,7 +18,7 @@ In the post processing stage, spell checking will be performed for minimizing er
 All these steps, settings, algorithms and their parameters can be automated using a configuration file- Braille Processing Template (BPT). Some templates (BPT) will be available to the user in default with the system. Users will also be able to define customized template.
 
 ### Demonstration
-- [Video Demonstration](https://drive.google.com/open?id=0B54vrHge-bxdM3h2MmtRN3lYNHM)
+- [Video Demonstration](https://drive.google.com/file/d/0B54vrHge-bxdM3h2MmtRN3lYNHM/view?usp=sharing&resourcekey=0-p8C0-nURvHR2wa9OkCAtkA)
 
 ### Documentation
 - Abstract- [document](https://www.slideshare.net/100005232690054/abstract-bengali-braille-to-text-translator)
