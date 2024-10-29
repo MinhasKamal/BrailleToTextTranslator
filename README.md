@@ -27,23 +27,24 @@ All these steps, settings, algorithms and their parameters can be automated usin
 - Project Report- [document](https://www.slideshare.net/100005232690054/project-report-bengali-braille-to-text-translator), [slide](https://drive.google.com/open?id=0B54vrHge-bxdU2ZEYW9IODcxbG8)
 - User Manual- [document](https://drive.google.com/open?id=0B54vrHge-bxdT2pjdGdQNG5yWWc)
 
-### Publication
-
-<table>
-<tr><td>Minhas Kamal, Amin Ahsan Ali, Muhammad Asif Hossain Khan, and Mohammad Shoyaib. "Braille to Text Translation for Bengali Language: A Geometric Approach." In Jahangir Nagar University Journal of Information Technology (JJIT), pp. 93-111, 2018. <a href="https://arxiv.org/abs/2012.01494">[PDF]</a> </td></tr>
-</table>
-
 ### Project Source
 - [Source Code](https://bitbucket.org/MinhasKamal/brailletotexttranslator)
 
-### Developer
+### Publication
 
-<table>
-<tr> <td><img src="https://avatars0.githubusercontent.com/u/5456665?v=3&s=460" height="50" width=auto /></td> <td><a href="https://minhaskamal.github.io">Minhas Kamal</a></td> </tr>
-</table>
+[Journal Paper](https://arxiv.org/abs/2012.01494)
 
-### Supervisor
 
-<table>
-<tr> <td><img src="http://www.iit.du.ac.bd/internal/assets/profile_pic/profile_pic_05-Mar-2018__04_03_22__1243863525.JPG" height="50" width=auto /></td> <td><a href="http://www.iit.du.ac.bd/about_iit/individual_teacher/48">Dr. Mohammad Shoyaib</a></td> </tr>
-</table>
+### Cite This Work
+```
+@INPROCEEDINGS {10707851,
+  author = {Minhas Kamal, Amin Ahsan Ali, Muhammad Asif Hossain Khan, Mohammad Shoyaib},
+  title = {Braille to Text Translation for Bengali Language: A Geometric Approach},
+  booktitle = {2018 Jahangir Nagar University Journal of Information Technology (JIT)},
+  pages = {93-111},
+  year = {2018}
+}
+```
+
+See more of my research works [here](https://scholar.google.com/citations?user=SZxTaQgAAAAJ).
+
