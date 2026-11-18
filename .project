@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BrailleToTextTranslator</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>jar</name>
+			<value>file:/D:/Others/%23CodeCollection%23/!%23JAVA_API%23!/JavaProjectHelpsUtils/JavaProjectHelpsUtils3.jar</value>
+		</variable>
+	</variableList>
+</projectDescription>
